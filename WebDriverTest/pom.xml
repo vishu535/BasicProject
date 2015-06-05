@@ -41,7 +41,7 @@
 				<version>2.4.3</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFiles>testng.xml</suiteXmlFiles>
+						<suiteXmlFiles>test2.xml</suiteXmlFiles>
 				     </suiteXmlFiles>
 				</configuration>
 			</plugin>
