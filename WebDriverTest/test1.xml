@@ -7,7 +7,7 @@
   </listeners>
   <test name="Test">
     <classes>
-      <class name="test_jenkins_config.Sample"/>
+      <class name="test_jenkins_config.Test1"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

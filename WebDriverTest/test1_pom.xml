@@ -12,6 +12,12 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
+	<groupId>com.google.inject</groupId>
+	<artifactId>guice</artifactId>
+	<version>3.0</version>
+</dependency>
+		
+		<dependency>
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
 			<version>6.9.4</version>
